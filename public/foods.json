@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/DLT5Lcv/pizza.jpg",
+    "title": "Margherita Pizza",
+    "description": "Classic Italian pizza topped with fresh tomatoes, mozzarella cheese, and basil leaves.",
+    "ingredients": [
+      "Yeast (2 and 1/4 teaspoons)",
+      "3 Tomatoes",
+      "100ml Mozzarella cheese",
+      "200g Basil leaves",
+      "Olive oil",
+      "Salt"
+    ],
+    "cook_time": 25,
+    "calories": 350
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/yB9nYpz/burger.jpg",
+    "title": "Cheeseburger",
+    "description": "Juicy beef patty topped with melted cheese and pickles, served on a toasted bun.",
+    "ingredients": [
+      "500g ground beef with 20% fat",
+      "1 large egg",
+      "½ cup fine dry bread crumbs",
+      "2 Tomato",
+      "Raw red onion rings",
+      "150g Hamburger bun"
+    ],
+    "cook_time": 15,
+    "calories": 500
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/hMqQd9G/panCake.jpg",
+    "title": "Pen Cake",
+    "description": "Pancakes are a beloved breakfast staple enjoyed around the world.",
+    "ingredients": [
+      "1 ½ cups all-purpose flour",
+      "3 ½ teaspoons baking powder",
+      "1 tablespoon white sugar",
+      "¼ teaspoon salt, or more to taste",
+      "1 egg",
+      "1 ¼ cups milk"
+    ],
+    "cook_time": 30,
+    "calories": 300
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/Zd9CYP7/noodles.jpg",
+    "title": "Spaghetti Carbonara",
+    "description": "Traditional Italian pasta dish made with spaghetti, bacon, eggs, and Parmesan cheese.",
+    "ingredients": [
+      "1 pound spaghetti",
+      "8 slices bacon, diced",
+      "1 onion, chopped",
+      "4 large eggs, beaten",
+      "1 clove garlic, minced",
+      "¼ cup dry white wine"
+    ],
+    "cook_time": 20,
+    "calories": 400
+  },
+  {
+    "id": 5,
+    "img": "https://hips.hearstapps.com/hmg-prod/images/greek-salad-index-642f292397bbf.jpg?crop=0.6666666666666667xw:1xh;center,top&resize=1200:*",
+    "title": "Greek Salad",
+    "description": "Refreshing salad with tomatoes, cucumbers, olives, onions and lemon juice.",
+    "ingredients": [
+      "1 ½ quarts olive oil",
+      "⅓ cup garlic powder",
+      "⅓ cup dried oregano",
+      "⅓ cup dried basil",
+      "¼ cup ground black pepper",
+      "2 quarts red wine vinegar"
+    ],
+    "cook_time": 10,
+    "calories": 250
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/KxvVzvb/food-04.jpg",
+    "title": "Chicken Naga Wings",
+    "description": "Soft corn tortillas filled with grilled chicken, lettuce, tomato, cheese, and salsa.",
+    "ingredients": [
+      "10 chicken wings",
+      "½ cup all-purpose flour",
+      "¼ teaspoon ground paprika",
+      "2 cups vegetable oil",
+      "¼ cup butter",
+      "¼ cup hot sauce"
+    ],
+    "cook_time": 20,
+    "calories": 300
+  }
+]
